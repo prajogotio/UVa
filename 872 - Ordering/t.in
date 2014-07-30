@@ -1,0 +1,7 @@
+2
+
+A B F G
+A<B B<F
+
+A B C E Z
+A<C Z<E B<C
