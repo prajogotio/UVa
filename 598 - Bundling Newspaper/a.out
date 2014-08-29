@@ -1,0 +1,168 @@
+Size 2
+Times, Herald-Tribune
+Times, Post
+Times, New Advocate
+Herald-Tribune, Post
+Herald-Tribune, New Advocate
+Post, New Advocate
+
+Size 3
+Times, Herald-Tribune, Post
+Times, Herald-Tribune, New Advocate
+Times, Post, New Advocate
+Herald-Tribune, Post, New Advocate
+
+
+Size 1
+abc
+def
+
+Size 2
+abc, def
+
+
+Size 1
+pqm
+
+
+Size 1
+aibnc
+oie
+apoujb
+vii
+aoub[
+sifuvm
+wiufn
+
+Size 2
+aibnc, oie
+aibnc, apoujb
+aibnc, vii
+aibnc, aoub[
+aibnc, sifuvm
+aibnc, wiufn
+oie, apoujb
+oie, vii
+oie, aoub[
+oie, sifuvm
+oie, wiufn
+apoujb, vii
+apoujb, aoub[
+apoujb, sifuvm
+apoujb, wiufn
+vii, aoub[
+vii, sifuvm
+vii, wiufn
+aoub[, sifuvm
+aoub[, wiufn
+sifuvm, wiufn
+
+Size 3
+aibnc, oie, apoujb
+aibnc, oie, vii
+aibnc, oie, aoub[
+aibnc, oie, sifuvm
+aibnc, oie, wiufn
+aibnc, apoujb, vii
+aibnc, apoujb, aoub[
+aibnc, apoujb, sifuvm
+aibnc, apoujb, wiufn
+aibnc, vii, aoub[
+aibnc, vii, sifuvm
+aibnc, vii, wiufn
+aibnc, aoub[, sifuvm
+aibnc, aoub[, wiufn
+aibnc, sifuvm, wiufn
+oie, apoujb, vii
+oie, apoujb, aoub[
+oie, apoujb, sifuvm
+oie, apoujb, wiufn
+oie, vii, aoub[
+oie, vii, sifuvm
+oie, vii, wiufn
+oie, aoub[, sifuvm
+oie, aoub[, wiufn
+oie, sifuvm, wiufn
+apoujb, vii, aoub[
+apoujb, vii, sifuvm
+apoujb, vii, wiufn
+apoujb, aoub[, sifuvm
+apoujb, aoub[, wiufn
+apoujb, sifuvm, wiufn
+vii, aoub[, sifuvm
+vii, aoub[, wiufn
+vii, sifuvm, wiufn
+aoub[, sifuvm, wiufn
+
+Size 4
+aibnc, oie, apoujb, vii
+aibnc, oie, apoujb, aoub[
+aibnc, oie, apoujb, sifuvm
+aibnc, oie, apoujb, wiufn
+aibnc, oie, vii, aoub[
+aibnc, oie, vii, sifuvm
+aibnc, oie, vii, wiufn
+aibnc, oie, aoub[, sifuvm
+aibnc, oie, aoub[, wiufn
+aibnc, oie, sifuvm, wiufn
+aibnc, apoujb, vii, aoub[
+aibnc, apoujb, vii, sifuvm
+aibnc, apoujb, vii, wiufn
+aibnc, apoujb, aoub[, sifuvm
+aibnc, apoujb, aoub[, wiufn
+aibnc, apoujb, sifuvm, wiufn
+aibnc, vii, aoub[, sifuvm
+aibnc, vii, aoub[, wiufn
+aibnc, vii, sifuvm, wiufn
+aibnc, aoub[, sifuvm, wiufn
+oie, apoujb, vii, aoub[
+oie, apoujb, vii, sifuvm
+oie, apoujb, vii, wiufn
+oie, apoujb, aoub[, sifuvm
+oie, apoujb, aoub[, wiufn
+oie, apoujb, sifuvm, wiufn
+oie, vii, aoub[, sifuvm
+oie, vii, aoub[, wiufn
+oie, vii, sifuvm, wiufn
+oie, aoub[, sifuvm, wiufn
+apoujb, vii, aoub[, sifuvm
+apoujb, vii, aoub[, wiufn
+apoujb, vii, sifuvm, wiufn
+apoujb, aoub[, sifuvm, wiufn
+vii, aoub[, sifuvm, wiufn
+
+Size 5
+aibnc, oie, apoujb, vii, aoub[
+aibnc, oie, apoujb, vii, sifuvm
+aibnc, oie, apoujb, vii, wiufn
+aibnc, oie, apoujb, aoub[, sifuvm
+aibnc, oie, apoujb, aoub[, wiufn
+aibnc, oie, apoujb, sifuvm, wiufn
+aibnc, oie, vii, aoub[, sifuvm
+aibnc, oie, vii, aoub[, wiufn
+aibnc, oie, vii, sifuvm, wiufn
+aibnc, oie, aoub[, sifuvm, wiufn
+aibnc, apoujb, vii, aoub[, sifuvm
+aibnc, apoujb, vii, aoub[, wiufn
+aibnc, apoujb, vii, sifuvm, wiufn
+aibnc, apoujb, aoub[, sifuvm, wiufn
+aibnc, vii, aoub[, sifuvm, wiufn
+oie, apoujb, vii, aoub[, sifuvm
+oie, apoujb, vii, aoub[, wiufn
+oie, apoujb, vii, sifuvm, wiufn
+oie, apoujb, aoub[, sifuvm, wiufn
+oie, vii, aoub[, sifuvm, wiufn
+apoujb, vii, aoub[, sifuvm, wiufn
+
+Size 6
+aibnc, oie, apoujb, vii, aoub[, sifuvm
+aibnc, oie, apoujb, vii, aoub[, wiufn
+aibnc, oie, apoujb, vii, sifuvm, wiufn
+aibnc, oie, apoujb, aoub[, sifuvm, wiufn
+aibnc, oie, vii, aoub[, sifuvm, wiufn
+aibnc, apoujb, vii, aoub[, sifuvm, wiufn
+oie, apoujb, vii, aoub[, sifuvm, wiufn
+
+Size 7
+aibnc, oie, apoujb, vii, aoub[, sifuvm, wiufn
+
